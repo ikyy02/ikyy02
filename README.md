@@ -98,6 +98,22 @@ const developer = {
 
 ---
 
+### 🎮 Contribution Games & Arcade
+
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikyy02/ikyy02/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikyy02/ikyy02/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ikyy02/ikyy02/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+
+  <br/><br/>
+
+  <img data-importer="snake" src="https://raw.githubusercontent.com/ikyy02/ikyy02/snake-output/snake.svg" alt="Snake contribution animation" width="100%" />
+</div>
+
+---
+
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/ikyy02">@ikyy02</a> • Keep Coding, Keep Innovating!</sub>
 </div>
